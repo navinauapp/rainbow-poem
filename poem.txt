@@ -1,8 +1,8 @@
-voilet
-indigo
-blue
-green
-yellow
-orange
-red
+Voilet
+Indigo
+Blue
+Green
+Yellow
+Orange
+Red
 These are the colors of the rainbow.
